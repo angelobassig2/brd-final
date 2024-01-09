@@ -1,0 +1,17 @@
+{
+    "time_created": "2023-12-13T08:16:05",
+    "detected_objects": [],
+    "all_products": [
+        "mountain_dew",
+        "other",
+        "pocari",
+        "coke"
+    ],
+    "available_products": [],
+    "missing_products": [
+        "mountain_dew",
+        "other",
+        "pocari",
+        "coke"
+    ]
+}

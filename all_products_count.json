@@ -1,0 +1,22 @@
+[
+    {
+        "product": "mountain_dew",
+        "count": 0,
+        "threshold": 1
+    },
+    {
+        "product": "other",
+        "count": 0,
+        "threshold": 1
+    },
+    {
+        "product": "pocari",
+        "count": 0,
+        "threshold": 1
+    },
+    {
+        "product": "coke",
+        "count": 0,
+        "threshold": 1
+    }
+]

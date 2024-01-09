@@ -1,0 +1,39 @@
+{
+    "time_created": "2023-10-03T14:51:13",
+    "detected_objects": [
+        {
+            "name": "coke",
+            "class": 0,
+            "confidence": 0.9998910427093506
+        },
+        {
+            "name": "other",
+            "class": 2,
+            "confidence": 0.999890923500061
+        },
+        {
+            "name": "other",
+            "class": 2,
+            "confidence": 0.9999980926513672
+        },
+        {
+            "name": "other",
+            "class": 2,
+            "confidence": 0.9680600166320801
+        }
+    ],
+    "all_products": [
+        "mountain_dew",
+        "other",
+        "pocari",
+        "coke"
+    ],
+    "available_products": [
+        "coke",
+        "other"
+    ],
+    "missing_products": [
+        "pocari",
+        "mountain_dew"
+    ]
+}

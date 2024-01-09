@@ -1,0 +1,24 @@
+{
+    "time_created": "2023-12-12T22:19:30",
+    "detected_objects": [
+        {
+            "name": "pocari",
+            "class": 3,
+            "confidence": 0.993285596370697
+        }
+    ],
+    "all_products": [
+        "mountain_dew",
+        "other",
+        "pocari",
+        "coke"
+    ],
+    "available_products": [
+        "pocari"
+    ],
+    "missing_products": [
+        "other",
+        "coke",
+        "mountain_dew"
+    ]
+}

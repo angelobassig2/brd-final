@@ -1,0 +1,30 @@
+{
+    "time_created": "2023-09-26T14:26:12",
+    "detected_objects": [
+        {
+            "name": "other",
+            "class": "2",
+            "confidence": "tensor(0.9658)"
+        },
+        {
+            "name": "other",
+            "class": "2",
+            "confidence": "tensor(0.9442)"
+        }
+    ],
+    "all_products": [
+        "smart_c",
+        "kopiko",
+        "fit_n_right",
+        "royal"
+    ],
+    "available_products": [
+        "other"
+    ],
+    "missing_products": [
+        "kopiko",
+        "smart_c",
+        "royal",
+        "fit_n_right"
+    ]
+}
